@@ -7,7 +7,7 @@ Finally, the data set [CIFAR10](https://www.cs.toronto.edu/~kriz/cifar.html) has
 
 **Detailed documentation at [memory](https://github.com/alejandrohdez00/CNN_PM_comparison/blob/main/memoria.pdf)**
 
-**Spanish:**
+**SPANISH:**
 
 Estudio comparativo entre redes convolucionales y perceptron multicapa para clasificación de imágenes.
 En el estudio se utilizan las librerías [Tensorflow](https://www.tensorflow.org/?hl=es-419) y [Keras](https://keras.io) para la modelización, entrenamiento y testeo de las redes convolucionales y los perceptrones multicapa. [Matplotlib](https://matplotlib.org) es usado para mostrar las gráficas y [scikit-learn-metrics](https://scikit-learn.org/stable/modules/classes.html#module-sklearn.metrics) para obtener algunas métricas como la matriz de confusión. 
